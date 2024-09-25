@@ -172,7 +172,7 @@ nav .links a:focus {
 
 /* landing */
 .landing{
-    background-image: url(/images/solar-panels-meadow\-1.png);
+    background-image: url(..//images/solar-panels-meadow-1.png);
     background-size: cover;
     height: 80vh;
 }
@@ -361,7 +361,7 @@ float: left;
 
 .box1 
 {
-    background-image: url(/images/81161.png);
+    background-image: url(..//images/81161.png);
     background-size: cover;
     padding: 70px;
 }
@@ -502,7 +502,7 @@ margin-left: 10px;
 
 /* box3 */
 .box3 {
-    background-image: url(/images/8116\(1\).png);
+    background-image: url(..//images/8116\(1\).png);
     background-size:100% 100%;
     padding: 100px;
     color: var(--white-color);
